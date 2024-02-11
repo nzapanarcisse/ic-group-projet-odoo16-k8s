@@ -1,0 +1,4 @@
+resources:
+  - postgres-secret.yml
+  - postgres-deployment.yml
+  - postgres-clusterip.yml

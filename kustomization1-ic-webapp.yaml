@@ -1,4 +1,0 @@
-resources:
-  - ic-webapp/ic-webapp-namespace.yml
-  - ic-webapp/ic-webapp-deployment.yml
-  - ic-webapp/ici-webapp-nodeport.yml

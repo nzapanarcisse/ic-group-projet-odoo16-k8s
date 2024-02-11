@@ -1,7 +1,0 @@
-resources:
-  - pgadmin/pgadmin-pv.yml
-  - pgadmin/pgadmin-pvc.yml
-  - pgadmin/pg-admin-secret.yml
-  - pgadmin/pg-admin-configmap.yml
-  - pgadmin/pg-admin-deployment.yml
-  - pgadmin/pg_admin-nodeport.yml
